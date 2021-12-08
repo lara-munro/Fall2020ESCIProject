@@ -1,4 +1,0 @@
-name: enviro
-dependencies:
-    - numpy
-    - pandas
